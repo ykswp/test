@@ -1,1 +1,9 @@
-hi how are you?
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Blog</title>
+</head>
+<body>
+    <h1>Welcome to My Blog</h1>
+</body>
+</html>
